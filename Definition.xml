@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject Label="Scatterplot Matrix" Path="Evolcon/ScatterplotMatrix">
+
+        <Dimension Label="Dimension:" TargetName="Dimension" Initial="" Multiple=""/>
+
+		<Measurement  Label="Expressions:" TargetName="Expressions" Initial=" " Multiple="" />
+        
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+		<Text Label="Label:" Type="text" Initial="" Multiple="" />
+        <Initiate Name="Caption.Font.Italic" Value="1" />
+	<Initiate Name="Caption.Text" value="Scatterplot Matrix" />
+</ExtensionObject>
